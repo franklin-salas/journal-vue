@@ -5,7 +5,7 @@
   
  Principal
 
-  ![preview img](/preview/principal.jpgs)
+  ![preview img](/preview/principal.jpg)
   
 
 ## Project setup
